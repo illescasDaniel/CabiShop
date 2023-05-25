@@ -1,0 +1,16 @@
+//
+//  build.xcconfig
+//  CabiShop
+//
+//  Created by Daniel Illescas Romero on 13/5/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// PLEASE duplicate this file and rename it to "build.xcconfig"
+// then type a valid DEVELOPMENT_TEAM or select a valid development team in Xcode.
+
+PRODUCT_BUNDLE_IDENTIFIER=com.illescas-daniel.CabiShop
+TESTS_PRODUCT_BUNDLE_IDENTIFIER=com.illescas-daniel.CabiShopTests
+DEVELOPMENT_TEAM=
